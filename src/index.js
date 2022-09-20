@@ -1,6 +1,6 @@
 import { fetchCountries } from './js/fetchCountries';
 import { Notify } from 'notiflix/build/notiflix-notify-aio';
-import { refs } from './js/refs';
+import refs from './js/refs';
 import { debounce } from 'lodash.debounce';
 import './css/styles.css';
 
